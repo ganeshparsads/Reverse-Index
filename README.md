@@ -1,5 +1,5 @@
 ###Code for Reverse Indexing
 
-####commands
+####command to be used:
 
 `python reverse_index.py <text_file>`
